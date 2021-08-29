@@ -1,4 +1,4 @@
-`Please change the branch settings from master to gh-pages to view all the contents.`
+`Please change the branch from master to gh-pages to view all the contents.`
 
 **Coursera course**: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 by Johns Hopkins University
